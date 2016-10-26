@@ -1,0 +1,54 @@
+{
+  "0": {
+    "(.*)tuy[eể]nd[uụ]ng(.*)": 0,
+    "(.*)t[iì]mvi[eệ]c(.*)": 1,
+    "(.*)xu[aấ]tkh[aẩ]ulao[dđ][oộ]ng(.*)": 2,
+    "(.*)m[oô]igi[oớ]ivi[eệ]cl[aà]m(.*)": 3
+  },
+  "1": {
+    "---": 0,
+    "(.*)linhki[eệ]n(.*)ph[uụ]ki[eệ]n(.*)": 1,
+    "(.*)s[uử]ach[uữ]a(.*)c[aà]i[dđ][aặ]t(.*)": 2
+  },
+  "3": {
+    "---": 0,
+    "(.*)laptop(.*)": 1,
+    "(.*)linhki[eệ]n(.*)ph[uụ]ki[eệ]nm[aá]yt[ií]nh(.*)": 2
+  },
+  "4": {
+    "(.*)b[aá]nnh[aà](.*)[dđ][aấ]t(.*)": 0,
+    "(.*)muanh[aà](.*)[dđ][aấ]t(.*)": 1,
+    "(.*)chothu[eê]nh[aà](.*)[dđ][aấ]t(.*)": 2,
+    "(.*)c[aầ]nthu[eê]nh[aà](.*)[dđ][aấ]t(.*)": 3
+  },
+  "5": {
+    "---": 0,
+    "(.*)th[oờ]itrangnam(.*)": 1
+  },
+  "7": {
+    "(.*)m[áa]yt[ií]nhb[ảa]n(.*)": 0,
+    "(.*)ch[oợ][oô]t[oô](.*)": 1,
+    "(.*)ch[oợ]c[oô]ngngh[eệ](.*)": 2,
+    "(.*)ch[oợ]thi[eế]tb[iị][dđ]i[eệ]n(.*)[dđ]i[eệ]nt[uử](.*)": 3,
+    "(.*)ch[oợ]xem[aá]y(.*)xe[dđ][aạ]p(.*)": 4,
+    "(.*)ch[oợ]gi[aá]od[uụ]c(.*)tuy[eể]nsinh(.*)": 5,
+    "(.*)duh[oọ]c(.*)": 6,
+    "(.*)ch[oợ]d[iị]chv[uụ](.*)s[uử]ach[uữ]a(.*)": 7,
+    "(.*)l[aắ]pm[aạ]nginternet(.*)": 8,
+    "(.*)ch[oợ]x[aâ]yd[uự]ng(.*)": 9,
+    "(.*)ch[oợ]ki[eế]ntr[uú]c(.*)n[oộ]ith[aấ]t(.*)": 10,
+    "(.*)thi[eế]tk[eế]web(.*)hosting(.*)t[eê]nmi[eề]n(.*)": 11,
+    "(.*)th[uự]cph[aẩ]m(.*)[dđ][oồ]u[oố]ng(.*)thu[oố]cch(.*)": 12,
+    "(.*)nh[aà]h[aà]ng(.*)c[aà]f[eê](.*)bar(.*)kara(.*)": 13,
+    "(.*)m[eẹ](.*)b[eé](.*)": 14,
+    "(.*)kinhdoanh(.*)[dđ][aầ]ut[uư](.*)": 15,
+    "(.*)vay(.*)chovayti[eề]n(.*)": 16,
+    "(.*)b[aả]ohi[eể]m(.*)": 17,
+    "(.*)ki[eế]mti[eề]ntr[eê]nm[aạ]ng(.*)": 18,
+    "(.*)dul[iị]chx[uứ]ngh[eệ](.*)": 19,
+    "(.*)gi[oớ]ithi[eệ]udoanhnghi[eệ]p(.*)": 20,
+    "(.*)game(.*)": 21,
+    "(.*)raov[aặ]t(.*)": 22,
+    "(.*)h[oỏ]i(.*)[dđ][aá]p(.*)": 23
+  }
+}

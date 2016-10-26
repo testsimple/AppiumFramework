@@ -1,0 +1,13 @@
+# Object Repository
+btnLogin=//abc
+btnLogout=//def
+
+# HOME PAGE
+
+# ABOUT PAGE
+
+# Login Form Element
+FirstName=Name:TanDung
+LastName=Name:Lam
+PartialLink=PartialLinkText:Partial Link Test
+

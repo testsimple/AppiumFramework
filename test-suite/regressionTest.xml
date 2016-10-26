@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="TestCase1">
+		<!-- <groups>
+			<define name="All">
+				<include name="function" />
+				<include name="non-function" />
+			</define>
+			<run>
+				<include name="All"></include>
+			</run>
+		</groups> -->
+		<!-- <parameter name="nhap" value="hoi gi ki vay"></parameter> -->
+		<classes>
+			<class name="com.appium.test.TestCase_One8" />
+			<!--<class name="com.appium.test.TestCase_One" />-->
+		</classes>
+	</test>
+</suite>
+
+
+
+
+
+
+
+
+
+
+
